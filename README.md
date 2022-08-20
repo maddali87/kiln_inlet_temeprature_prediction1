@@ -1,0 +1,2 @@
+# kiln_inlet_temeprature_prediction1
+Cement Kilninlet temperature predction
